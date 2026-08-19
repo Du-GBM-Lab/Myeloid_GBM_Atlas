@@ -1,0 +1,19 @@
+# Downloaded or generated project data
+/data/
+/outputs/
+/assets/qa/
+
+# R session files
+.Rhistory
+.RData
+.Ruserdata
+
+# Local environment and editor files
+.Renviron
+.Rproj.user/
+.vscode/
+.idea/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
